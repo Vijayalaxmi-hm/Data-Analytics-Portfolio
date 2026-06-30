@@ -78,3 +78,14 @@ CGPA: **8.98**
 ---
 
 ⭐ Thank you for visiting my portfolio. I am continuously learning and updating this repository with new projects.
+## Learning Progress
+
+### Day 2
+
+✔ Excel Basics
+
+✔ SQL Database Creation
+
+✔ SQL SELECT Queries
+
+✔ Student Result Project Completed
